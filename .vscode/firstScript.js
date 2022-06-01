@@ -1,5 +1,3 @@
-
-
 document.getElementById('submitButton').onclick = function(){
     let dateIn = new Date(document.getElementById("datetimeIn").value);
     let dateOut = new Date(document.getElementById("datetimeOut").value);
@@ -153,14 +151,3 @@ document.getElementById('submitButton').onclick = function(){
 
 
 }
-
-
-
-
-
-
-
-
-
-    
-
